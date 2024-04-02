@@ -5,10 +5,13 @@ const app = express();
 import configuration from './configs/index.js';
 import mongoose from 'mongoose';
 import cors from 'cors';
+import contactRouter from './routes/contact.routes.js'
+import notFound from './middlewares/notFound.js'
 
 app.use(express.json());
 app.use(cors());
-
+app.use('/contact/api',contactRouter)
+app.use(notFound)
 mongoose.connect(configuration.mongoURI)
 .then(() => {
     app.listen(configuration.port, ()=> {
