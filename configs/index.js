@@ -4,4 +4,4 @@ const configs = {
     secret: process.env.SECRET ||'mysecret'
 }
 
-export default configs;
+export default configs; 

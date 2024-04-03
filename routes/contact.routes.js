@@ -12,4 +12,3 @@ router.route('/:id').get(contactControllers.getContact).put(contactControllers.u
 
 
 export default router
-

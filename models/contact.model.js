@@ -40,4 +40,4 @@ const contactSchema =new mongoose.Schema({
 
 const contactModel = mongoose.model('contact',contactSchema);
 
-export default contactModel;
+export default contactModel

@@ -73,7 +73,7 @@ const getContactByEmailOrByPhone = async (req, res) => {
         console.error('Error retrieving contacts:', error);
         res.status(500).json({ error: 'Failed to retrieve contacts. Please try again later.' });
     }
-};
+}
 
 // const getContactByPhone=async(req,res)=>{
 //     try{

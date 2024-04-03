@@ -20,4 +20,4 @@ mongoose.connect(configuration.mongoURI)
 })
 .catch(err => {
     console.log(err);
-});
+})
