@@ -1,0 +1,121 @@
+[33mcommit 94452b603470a0cf9e3130d78e005d000800ab44[m[33m ([m[1;36mHEAD -> [m[1;32mcontact[m[33m, [m[1;31morigin/contact[m[33m)[m
+Author: Magnifique UMURERWA <ketymagnifique@gmail.com>
+Date:   Fri Apr 5 11:28:42 2024 +0200
+
+    updates
+
+[33mcommit 7f5264baf42ee2ab51a46578dbc5aa381c559d2c[m
+Author: Magnifique UMURERWA <ketymagnifique@gmail.com>
+Date:   Wed Apr 3 10:06:33 2024 +0200
+
+    commit
+
+[33mcommit 55d2ae8ff2ddd06ac7bc2462c18fa3008aa19102[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Magnifique UMURERWA <ketymagnifique@gmail.com>
+Date:   Tue Apr 2 11:05:09 2024 +0200
+
+    updates
+
+[33mcommit 12a325f8aa60bd8c88c8217fc878a2aa8a432f75[m
+Author: Magnifique UMURERWA <ketymagnifique@gmail.com>
+Date:   Tue Apr 2 11:04:20 2024 +0200
+
+    routers
+
+[33mcommit c888e1c68d7f60e6e726460cbc8cf3cdb13ebcb8[m
+Author: Magnifique UMURERWA <ketymagnifique@gmail.com>
+Date:   Tue Apr 2 11:03:54 2024 +0200
+
+    controllers
+
+[33mcommit 6ff25e984e992a7627f6270bf7ac5c55770e6fad[m
+Author: hirwajeaneric <hirwajeaneric25@gmail.com>
+Date:   Wed Mar 27 13:23:44 2024 +0200
+
+    Refactoring: Improving the contact model
+
+[33mcommit 86a1261b7d5e0697df6683d55923f757c43d0cdd[m
+Merge: 9de5ff9 f123389
+Author: HIRWA Jean Eric <hirwajeaneric25@gmail.com>
+Date:   Wed Mar 27 13:17:34 2024 +0200
+
+    Merge pull request #6 from Yvonneizerimana/main
+    
+    i add timestamps
+
+[33mcommit f12338954edcc152180b8b186e09638036144734[m
+Merge: e130eaf 9de5ff9
+Author: HIRWA Jean Eric <hirwajeaneric25@gmail.com>
+Date:   Wed Mar 27 13:14:41 2024 +0200
+
+    Merge branch 'main' into main
+
+[33mcommit 9de5ff93bcdaeb0a066397aba7da61e219c24f55[m
+Author: hirwajeaneric <hirwajeaneric25@gmail.com>
+Date:   Wed Mar 27 13:12:28 2024 +0200
+
+    Update: Some changes in the index.js file.
+
+[33mcommit e130eaf92655b6a388698acca042124ccfdfb500[m
+Author: yvonne IZERIMANA <izerimanayvonne510@gmail.com>
+Date:   Wed Mar 27 12:51:18 2024 +0200
+
+    i add timestamps
+
+[33mcommit 24b9c25880015c68ee0f2227963b763aeae8ac72[m
+Merge: 3a44bee 1032a9c
+Author: Josiane Ishimwe <127387467+Joh-Ishimwe@users.noreply.github.com>
+Date:   Wed Mar 27 12:49:34 2024 +0200
+
+    Merge pull request #4 from Alice-babayalo/main
+    
+    creating a real server
+
+[33mcommit 1032a9c293fc95f8ad6530df12e29c9190c3698b[m
+Author: Alice-babayalo <umuhozawasealice@gmail.com>
+Date:   Wed Mar 27 12:41:32 2024 +0200
+
+    creating a server
+
+[33mcommit 74d32d77c09cdce826275a5ab464badc8464ef23[m
+Author: yvonne IZERIMANA <izerimanayvonne510@gmail.com>
+Date:   Wed Mar 27 12:41:10 2024 +0200
+
+    model commit
+
+[33mcommit 7092c292a990b1f36b18943283a6d034b887ea57[m
+Author: Alice-babayalo <umuhozawasealice@gmail.com>
+Date:   Wed Mar 27 12:32:24 2024 +0200
+
+    aditting an index.js file
+
+[33mcommit ca116e59785c5ad7605ac13113e0950bebf288a1[m
+Author: Alice-babayalo <umuhozawasealice@gmail.com>
+Date:   Wed Mar 27 12:27:39 2024 +0200
+
+    creating an index.js file
+
+[33mcommit 77fe5b14ee3038efad3a3427c24dd6cc95dd4fd6[m
+Merge: 6f8df13 3a44bee
+Author: Alice-babayalo <154358947+Alice-babayalo@users.noreply.github.com>
+Date:   Wed Mar 27 12:15:56 2024 +0200
+
+    Merge branch 'SheCanCode-Back-end-Cohort-10:main' into main
+
+[33mcommit 3a44bee15c24817d26e42344d311426288642364[m
+Author: hirwajeaneric <hirwajeaneric25@gmail.com>
+Date:   Wed Mar 27 12:13:34 2024 +0200
+
+    Feature: Project setup
+
+[33mcommit 6f8df137228b95d582267d83e8f5b001e2038044[m
+Author: Alice-babayalo <umuhozawasealice@gmail.com>
+Date:   Wed Mar 27 11:52:35 2024 +0200
+
+    first trial
+
+[33mcommit 3af28ea002a806c7b551a8cdb10eb70739dc8ff4[m
+Author: HIRWA Jean Eric <hirwaminerve25@gmail.com>
+Date:   Wed Mar 27 11:28:56 2024 +0200
+
+    Initial commit

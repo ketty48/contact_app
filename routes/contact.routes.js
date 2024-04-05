@@ -1,4 +1,3 @@
-// Contact router
 import express from 'express'
 const router =express.Router()
 import contactControllers from '../controllers/contact.controller.js'

@@ -9,6 +9,7 @@ import configuration from './configs/index.js';
 import mongoose from 'mongoose';
 import cors from 'cors';
 import contactRouter from './routes/contact.routes.js';
+
 import notFound from './middlewares/notFound.js';
 
 app.use(express.json());
@@ -16,9 +17,14 @@ app.use(cors());
 app.use('/contact',contactRouter);
 app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerDocument)); // Use swaggerDocument instead of swagger
 
+//db connection
+
 // app.use(notFound);
 mongoose.connect(configuration.mongoURI)
 .then(() => {
+
+
+
     app.listen(configuration.port, ()=> {
         console.log("listening on port "+configuration.port);
     });
