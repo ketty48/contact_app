@@ -1,3 +1,4 @@
+
 import Contact from '../models/contact.model.js'
 
 const createContact=async(req,res)=>{
@@ -100,4 +101,3 @@ const contactController={
 }
 
 export default contactController
-
